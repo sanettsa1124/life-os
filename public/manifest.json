@@ -1,0 +1,24 @@
+{
+  "name": "Life OS",
+  "short_name": "Life OS",
+  "description": "Панель управления жизнью — финансы, задачи, цели, расписание",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#EEF3F1",
+  "theme_color": "#3E8E7E",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/icon-192.svg",
+      "sizes": "192x192",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/icon-512.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}

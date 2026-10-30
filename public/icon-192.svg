@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="192" height="192" viewBox="0 0 192 192">
+  <rect width="192" height="192" rx="40" fill="#EEF3F1"/>
+  <circle cx="96" cy="80" r="32" fill="#3E8E7E" opacity="0.8"/>
+  <rect x="64" y="110" width="64" height="32" rx="12" fill="#3E8E7E" opacity="0.5"/>
+  <text x="96" y="170" text-anchor="middle" font-family="Manrope, sans-serif" font-size="16" font-weight="700" fill="#1B2630">Life OS</text>
+</svg>
